@@ -1,29 +1,17 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> 
-  Hey! Nice to see you.
+  Hello, I'm Ibrahim Al-shabrawishy
 </h1>
 
 <p>
-مرحبًا بكم في ملفي الشخصي على GitHub 👋 <br/>
-أنا <b>Ibrahim Al-Shabrawishy</b>، <b>مبرمج ويب</b> متخصص في <b>Frontend Development</b>.  
-أحب بناء تطبيقات ويب حديثة، تفاعلية وسهلة الاستخدام.
+Welcome to my GitHub profile 👋 <br/>
+I’m a <b>Frontend Developer</b> passionate about building modern, responsive, and user-friendly web applications.  
+I enjoy learning new technologies and continuously improving my skills to deliver clean and high-quality interfaces.
 </p>
 
 ---
 
-## 👨‍💻 About Me | نبذة عني
-
-I’m a frontend-focused web developer who loves continuous learning and growth in the world of web development.  
-I enjoy exploring new technologies, improving my skills, and building clean, scalable, and high-quality user interfaces.  
-My goal is always to deliver great user experiences through modern frontend solutions.
-
-أنا مبرمج ويب متخصص في الـ Frontend أحب التعلم المستمر والتطور في عالم تطوير الويب.  
-أستمتع باستكشاف التقنيات الجديدة، تحسين مهاراتي، وبناء واجهات مستخدم نظيفة، قابلة للتوسع وعالية الجودة.  
-هدفي دائمًا هو تقديم تجربة مستخدم رائعة من خلال حلول Frontend حديثة.
-
----
-
-## 🛠 Languages & Technologies | اللغات والتقنيات
+## 🛠 Languages & Technologies
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -39,7 +27,7 @@ My goal is always to deliver great user experiences through modern frontend solu
 
 ---
 
-## 🚀 Featured Projects | المشاريع المميزة
+## 🚀 Featured Projects
 
 | Project | Live Demo |
 |-------|-----------|
@@ -48,7 +36,7 @@ My goal is always to deliver great user experiences through modern frontend solu
 
 ---
 
-## 📫 Connect with Me | تواصل معي
+## 📫 Connect with Me
 
 <p>
   <a href="https://github.com/IbrahimAl-shabrawishy" target="_blank">
@@ -69,5 +57,5 @@ My goal is always to deliver great user experiences through modern frontend solu
 </p>
 
 <p align="center">
-✨ Web Developer | Frontend Developer | مبرمج ويب متخصص في الـ Frontend يعتقد أن التعلم لا يتوقف
+✨ Frontend Developer | Web Developer passionate about learning and building high-quality user interfaces
 </p>
