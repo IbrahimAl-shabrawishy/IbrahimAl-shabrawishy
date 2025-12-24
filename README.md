@@ -5,45 +5,43 @@
 
 <p>
 Welcome to my GitHub profile 👋 <br/>
-I'm <b>Ibrahim Al-Shabrawishy</b>, a passionate Frontend Developer specializing in React.js.  
-I love building modern, responsive, and user-friendly web applications.
+I'm <b>Ibrahim Al-Shabrawishy</b>, a <b>Web Developer</b> specializing as a 
+<b>Frontend Developer</b>.
+I’m passionate about building modern, responsive, and user-friendly web applications.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a frontend developer who enjoys solving problems and learning new tools & technologies in the world of web development.  
-I constantly work on improving my skills and building meaningful projects that demonstrate what I can do.
+I’m a frontend-focused web developer who loves continuous learning and growth in the world of web development.  
+I enjoy exploring new technologies, improving my skills, and building clean, scalable, and high-quality user interfaces.  
+My goal is always to deliver great user experiences through modern frontend solutions.
 
 ---
 
 ## 🛠 Languages & Technologies
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="REST API" src="https://img.shields.io/badge/-REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p>
-Here are some of the projects I’ve built and deployed:
-</p>
-
 | Project | Live Demo |
-|---------|------------|
-| **Portfolio Website** | <a href="https://react-portfolio-9e280.web.app/" target="_blank">View Live</a> |
-| *More projects coming soon!* | 🌟 |
+|-------|-----------|
+| **React Portfolio** | <a href="https://react-portfolio-9e280.web.app/" target="_blank">View Live</a> |
+| *More projects coming soon* | 🚧 |
 
 ---
 
@@ -64,5 +62,5 @@ Here are some of the projects I’ve built and deployed:
 ---
 
 <p align="center">
-✨ A frontend developer who believes that learning never stops
+✨ Web Developer | Frontend Developer who believes that learning never stops
 </p>
