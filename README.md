@@ -4,23 +4,26 @@
 </h1>
 
 <p>
-Welcome to my GitHub profile 👋 <br/>
-I'm <b>Ibrahim Al-Shabrawishy</b>, a <b>Web Developer</b> specializing as a 
-<b>Frontend Developer</b>.
-I’m passionate about building modern, responsive, and user-friendly web applications.
+مرحبًا بكم في ملفي الشخصي على GitHub 👋 <br/>
+أنا <b>Ibrahim Al-Shabrawishy</b>، <b>مبرمج ويب</b> متخصص في <b>Frontend Development</b>.  
+أحب بناء تطبيقات ويب حديثة، تفاعلية وسهلة الاستخدام.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | نبذة عني
 
 I’m a frontend-focused web developer who loves continuous learning and growth in the world of web development.  
 I enjoy exploring new technologies, improving my skills, and building clean, scalable, and high-quality user interfaces.  
 My goal is always to deliver great user experiences through modern frontend solutions.
 
+أنا مبرمج ويب متخصص في الـ Frontend أحب التعلم المستمر والتطور في عالم تطوير الويب.  
+أستمتع باستكشاف التقنيات الجديدة، تحسين مهاراتي، وبناء واجهات مستخدم نظيفة، قابلة للتوسع وعالية الجودة.  
+هدفي دائمًا هو تقديم تجربة مستخدم رائعة من خلال حلول Frontend حديثة.
+
 ---
 
-## 🛠 Languages & Technologies
+## 🛠 Languages & Technologies | اللغات والتقنيات
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -36,7 +39,7 @@ My goal is always to deliver great user experiences through modern frontend solu
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects | المشاريع المميزة
 
 | Project | Live Demo |
 |-------|-----------|
@@ -45,7 +48,7 @@ My goal is always to deliver great user experiences through modern frontend solu
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me | تواصل معي
 
 <p>
   <a href="https://github.com/IbrahimAl-shabrawishy" target="_blank">
@@ -57,10 +60,14 @@ My goal is always to deliver great user experiences through modern frontend solu
   <a href="https://react-portfolio-9e280.web.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="mailto:ibrahimelshabrawishy123321@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201004799817" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
----
-
 <p align="center">
-✨ Web Developer | Frontend Developer who believes that learning never stops
+✨ Web Developer | Frontend Developer | مبرمج ويب متخصص في الـ Frontend يعتقد أن التعلم لا يتوقف
 </p>
