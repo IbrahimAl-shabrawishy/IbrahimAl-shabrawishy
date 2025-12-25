@@ -1,65 +1,62 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> 
   Hello, I'm Ibrahim Al-shabrawishy
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="28"/>
 </h1>
+
+<p align="center">
+  Frontend Developer • React & Modern Web
+</p>
 
 <p align="center">
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Frontend Developer coding"
-    width="300"
+    alt="Frontend Developer Coding"
+    width="320"
   />
 </p>
 
+---
+
 <p align="center">
-  Welcome to my GitHub profile 👋 <br/>
-  I’m a <b>Frontend Developer</b> passionate about building modern, responsive, and user-friendly web applications.  
-  I enjoy learning new technologies and continuously improving my skills to deliver clean and high-quality interfaces.
+I’m a <b>Frontend Developer</b> who loves building modern, responsive, and user-friendly web applications.<br/>
+Focused on clean UI, performance, and great user experience.
 </p>
 
 ---
 
-## 🛠 Languages & Technologies
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 | Project | Live Demo |
 |-------|-----------|
 | **React Portfolio** | <a href="https://react-portfolio-9e280.web.app/" target="_blank">View Live</a> |
-| *More projects coming soon* | 🚧 |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAl-shabrawishy&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAl-shabrawishy&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAl-shabrawishy&show_icons=true&theme=react&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAl-shabrawishy&layout=compact&theme=react&hide_border=true" width="47%"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/IbrahimAl-shabrawishy">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ibrahim-al-shabrawishy-00a8331b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://react-portfolio-9e280.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -75,5 +72,5 @@
 ---
 
 <p align="center">
-✨ Frontend Developer | Building clean, responsive & user-friendly web interfaces
+⭐ Always learning • Always improving • Building the web with passion
 </p>
