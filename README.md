@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Frontend Developer • React & Modern Web
+  Frontend Developer | React & Modern Web Applications
 </p>
 
 <p align="center">
@@ -18,8 +18,9 @@
 ---
 
 <p align="center">
-I’m a <b>Frontend Developer</b> passionate about building modern, responsive, and user-friendly web applications.<br/>
-I focus on clean UI, performance, and delivering great user experiences.
+I am a <b>Frontend Developer</b> specialized in building modern, responsive, and user-friendly web applications.  
+I have a strong passion for creating clean UI designs, optimizing performance, and delivering engaging user experiences.  
+Always eager to learn new technologies and improve my development skills.
 </p>
 
 ---
@@ -63,5 +64,5 @@ I focus on clean UI, performance, and delivering great user experiences.
 ---
 
 <p align="center">
-⭐ Frontend Developer • Clean UI • Continuous Learning
+⭐ Passionate Frontend Developer • Committed to building high-quality web applications • Always learning and growing
 </p>
